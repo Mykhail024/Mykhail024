@@ -5,6 +5,6 @@
 - I love developing AvaloniaUI, Qt applications
 - I'm a big fan of Unix systems
 - How to reach me:
-  - E-mail: semerka535@gmail.com
+  - E-mail: mykhailo.muzyka535@gmail.com
   - Discord: HONG#3885
   - Telegram: [Mykhail024](https://t.me/Mykhail024)
