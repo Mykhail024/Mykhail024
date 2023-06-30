@@ -6,5 +6,5 @@
 - I'm a big fan of Unix systems
 - How to reach me:
   - E-mail: mykhailo.muzyka535@gmail.com
-  - Discord: HONG#3885
+  - Discord: hong1923(HONG#3885)
   - Telegram: [Mykhail024](https://t.me/Mykhail024)
