@@ -7,7 +7,6 @@
 - How to reach me:
   - E-mail: **mykhailo.muzyka535@gmail.com**
   - Discord: **hong1923(HONG#3885)**
-  - Telegram: **[Mykhail024](https://t.me/Mykhail024)**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mykhail024&show_icons=true&theme=dark&locale=en&layout=compact" alt="mykhail024" /></p>
 
