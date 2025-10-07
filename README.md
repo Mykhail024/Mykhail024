@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **C++ and Qt6**
 - ⚡ Fun fact **I'm a big fan of Unix systems**
 - How to reach me:
-  - E-mail: **mykhailo.muzyka535@gmail.com**
+  - E-mail: **mykhailo.muzyka@pm.me**
   - Discord: **hong1923(HONG#3885)**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mykhail024&show_icons=true&theme=dark&locale=en&layout=compact" alt="mykhail024" /></p>
